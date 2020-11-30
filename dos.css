@@ -1,0 +1,35 @@
+*{
+    margin: 10;
+    padding: 10;
+}
+body{
+    background: url(imagenes/cv-3726428_1280.jpg);
+}
+body .tres{
+    font-family: 'Sego5UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: lightgray;
+    opacity: 0.95;
+    text-align: center;
+}
+.tres h1{
+    font-size: 80px;
+    padding-bottom: 30px;
+}
+.tres p{
+    color: rgb(16, 26, 26);
+    background: rgba(70, 126, 92, 0.308);
+    font-size: 25px;
+    padding: 60px ;
+    margin: 70px;
+}
+.tres a{
+    background: rgba(16, 26, 26);
+    padding: 20px;
+    border-radius: 10px;
+    font-size: 25px;
+    text-decoration: none;
+    color: rgb(199, 206, 203);
+}
+.tres a:hover{
+    background: rgb(243, 133, 113);
+}
